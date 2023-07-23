@@ -39,7 +39,7 @@ The example app demonstrates different loading options the "Loading Plus" packag
 
 ## Contributing
 
-Contributions to the Loading Plus Example are welcome! If you encounter any issues, have suggestions, or want to improve the example, feel free to create a pull request or submit an issue on the [GitHub repository](https://github.com/yourusername/flutter-loading-example).
+Contributions to the Loading Plus Example are welcome! If you encounter any issues, have suggestions, or want to improve the example, feel free to create a pull request or submit an issue on the [GitHub repository](https://github.com/OsamaAssaf/flutter_loading_example).
 
 ## License
 
